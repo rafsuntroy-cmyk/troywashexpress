@@ -1,0 +1,6 @@
+.hero {
+    background: linear-gradient(rgba(241, 251, 191, 0.6), rgba(244, 246, 222, 0.789)), 
+                url('https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=2000'); /* Placeholder image */
+    background-size: cover;
+    background-position: center;
+}
